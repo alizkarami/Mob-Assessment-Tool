@@ -1,0 +1,20 @@
+.final-result {
+line-height: 1.5em;
+text-align: left;
+/* padding: .4em .5em; */
+vertical-align: top;
+}
+
+.next{
+float:right;
+
+}
+.selectionLabel {
+float:left;
+height:45px;
+position:relative;
+top:14px;
+}
+.ui-btn-text img {
+float:left;
+}
